@@ -1,0 +1,25 @@
+# Compiled binaries
+c/calendar
+go/calendar
+kotlin/calendar.jar
+rust/target/
+
+# Build artifacts
+*.o
+*.class
+bin/
+
+# Go
+go.sum
+
+# Rust
+Cargo.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
